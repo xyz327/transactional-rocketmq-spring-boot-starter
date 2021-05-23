@@ -1,0 +1,2 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+    cn.github.xyz327.rocketmq.transactional.TransactionalRocketmqAutoConfiguration
